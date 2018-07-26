@@ -1,0 +1,27 @@
+---
+
+output:
+  pdf_document:
+    keep_tex: true
+    fig_caption: yes
+    latex_engine: pdf_document
+geometry: margin=lin
+
+title: "COMM 000: A Class About Something Interesting"
+author: Collin K. Berke, Ph.D.
+date: "Fall 2018"
+
+email: "collin.berke@gmail.com"
+web: "collinberke.com"
+officehours: "W 9:00-11:30 a.m."
+office: "TBD"
+classroom: "*RM 305B"
+classhours: "TR 02:00-3:45 p.m."
+
+fontfamily: mathpazo
+fontsize: 11pt
+header-includes: 
+  - \linespread{1.05}
+  
+---
+
